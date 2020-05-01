@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/pasdam/go-io-utils/pkg/ioutilx"
+	"github.com/pasdam/go-io-utilx/pkg/ioutilx"
 	"github.com/stretchr/testify/assert"
 )
 

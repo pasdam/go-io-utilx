@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/pasdam/go-files-test/pkg/filestest"
-	"github.com/pasdam/go-io-utils/pkg/ioutilx"
+	"github.com/pasdam/go-io-utilx/pkg/ioutilx"
 	"github.com/stretchr/testify/assert"
 )
 
