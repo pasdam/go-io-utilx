@@ -2,7 +2,7 @@ module github.com/pasdam/go-io-utilx
 
 replace github.com/pasdam/go-io-utilx/pkg => ./pkg
 
-go 1.14
+go 1.17
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
