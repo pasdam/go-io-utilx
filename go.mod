@@ -6,7 +6,7 @@ go 1.17
 
 require (
 	github.com/pasdam/go-files-test v0.0.0-20200501091338-451ab9b14024
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.10.0
 )
 
 require (
